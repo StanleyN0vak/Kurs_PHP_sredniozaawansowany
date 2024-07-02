@@ -1,0 +1,26 @@
+Linki do edytorów i IDE
+=======================
+PhpStorm: https://www.jetbrains.com/phpstorm/
+VS Code: https://code.visualstudio.com/
+Sublime Text 3: https://www.sublimetext.com/3
+VIM: https://www.vim.org/
+
+
+Przydatne linki
+===============
+
+http://www.openvim.com/
+https://www.php-fig.org/psr/psr-3/
+https://www.php-fig.org/psr/psr-6/
+http://php.net/manual/pl/reserved.interfaces.php
+http://php.net/manual/en/features.commandline.webserver.php
+https://developer.mozilla.org/pl/docs/Web/HTML/Element/Input
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
+http://symfony.com/doc/master/components/validator.html
+https://sekurak.pl/czym-jest-podatnosc-csrf-cross-site-request-forgery/
+https://symfony.com/doc/current/controller/upload_file.html
+https://swiftmailer.symfony.com/docs/introduction.html
+http://php.net/manual/en/function.password-hash.php
+http://php.net/manual/en/function.password-verify.php
+https://www.php-fig.org/psr/
+https://symfony.com/doc/3.4/contributing/code/standards.html

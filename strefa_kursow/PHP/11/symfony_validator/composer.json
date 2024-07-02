@@ -1,0 +1,12 @@
+{
+    "name": "krzysztofjonczyk/symfony_validator",
+    "require": {
+        "symfony/validator": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Jonczyk",
+            "email": "krzysztof.jonczyk@gmail.com"
+        }
+    ]
+}

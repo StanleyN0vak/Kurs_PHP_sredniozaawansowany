@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f98024d-acb6-467a-9b33-f75cb218cbbe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/evernote_schedule/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="interfaces.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/4/interfaces.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/7/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/8/Event.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/8/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/8/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoloader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/8/autoload/autoloader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/8/autoload/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/9/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/9/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP/10/sqlite/insert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1523713001486" expanded="true" signature="100:149" ph="insert into products... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/evernote_schedule" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/4/Event.php" />
+        <option value="$PROJECT_DIR$/4/datetime.php" />
+        <option value="$PROJECT_DIR$/5/datetime.php" />
+        <option value="$PROJECT_DIR$/5/date_modify.php" />
+        <option value="$PROJECT_DIR$/7/index.php" />
+        <option value="$PROJECT_DIR$/8/functions.php" />
+        <option value="$PROJECT_DIR$/8/Product.php" />
+        <option value="$PROJECT_DIR$/8/Event.php" />
+        <option value="$PROJECT_DIR$/8/main.php" />
+        <option value="$PROJECT_DIR$/8/autoload/src/Foo.php" />
+        <option value="$PROJECT_DIR$/8/autoload/src/Model/Bar.php" />
+        <option value="$PROJECT_DIR$/8/autoload/autoloader.php" />
+        <option value="$PROJECT_DIR$/8/autoload/main.php" />
+        <option value="$PROJECT_DIR$/9/composer.json" />
+        <option value="$PROJECT_DIR$/9/src/Foo.php" />
+        <option value="$PROJECT_DIR$/9/src/Model/Bar.php" />
+        <option value="$PROJECT_DIR$/9/main.php" />
+        <option value="$PROJECT_DIR$/10/sqlite.php" />
+        <option value="$PROJECT_DIR$/10/sqlite/main.php" />
+        <option value="$PROJECT_DIR$/10/sqlite/insert.php" />
+        <option value="$PROJECT_DIR$/10/mysql/main.php" />
+        <option value="$PROJECT_DIR$/10/mysql/insert.php" />
+        <option value="$PROJECT_DIR$/10/pdo/sqlite.php" />
+        <option value="$PROJECT_DIR$/10/pdo/sqlite_insert.php" />
+        <option value="$PROJECT_DIR$/10/pdo/mysql.php" />
+        <option value="$PROJECT_DIR$/10/pdo/mysql_insert.php" />
+        <option value="$PROJECT_DIR$/10/pdo/pdo_insert.php" />
+        <option value="$PROJECT_DIR$/10/pdo/pdo.php" />
+        <option value="$PROJECT_DIR$/10/doctrine/src/AppBundle/Entity/Products.php" />
+        <option value="$PROJECT_DIR$/10/doctrine/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/11/validation.php" />
+        <option value="$PROJECT_DIR$/11/input.html" />
+        <option value="$PROJECT_DIR$/11/input.php" />
+        <option value="$PROJECT_DIR$/11/symfony_validator/input.php" />
+        <option value="$PROJECT_DIR$/11/csrf/main.php" />
+        <option value="$PROJECT_DIR$/11/upload_files/main.php" />
+        <option value="$PROJECT_DIR$/12/swiftmailer/main.php" />
+        <option value="$PROJECT_DIR$/12/contacts_form/contact.html" />
+        <option value="$PROJECT_DIR$/12/contacts_form/send.php" />
+        <option value="$PROJECT_DIR$/13/login.php" />
+        <option value="$PROJECT_DIR$/13/logout.php" />
+        <option value="$PROJECT_DIR$/13/session.php" />
+        <option value="$PROJECT_DIR$/13/cookie.php" />
+        <option value="$PROJECT_DIR$/13/flash_message/main.php" />
+        <option value="$PROJECT_DIR$/14/user_color.php" />
+        <option value="$PROJECT_DIR$/14/password.php" />
+        <option value="$PROJECT_DIR$/15/all_errors.php" />
+        <option value="$PROJECT_DIR$/15/no_errors.php" />
+        <option value="$PROJECT_DIR$/15/errors/MyException.php" />
+        <option value="$PROJECT_DIR$/15/errors/main.php" />
+        <option value="$PROJECT_DIR$/15/fatal.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/evernote/evernote-cloud-sdk-php" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/composer" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/evernote_schedule/vendor/twig/twig" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="413" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="4" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="5" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="7" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="9" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="9" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="10" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strefa_kursow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strefa_kursow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="10" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sqlite" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/11/symfony_validator" />
+      <recent name="$PROJECT_DIR$/10/pdo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f98024d-acb6-467a-9b33-f75cb218cbbe" name="Default" comment="" />
+      <created>1520675961828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520675961828</updated>
+      <workItem from="1520675963012" duration="12501000" />
+      <workItem from="1521200831174" duration="14010000" />
+      <workItem from="1521971248127" duration="7065000" />
+      <workItem from="1522169842640" duration="6680000" />
+      <workItem from="1523710159363" duration="25563000" />
+      <workItem from="1524310356143" duration="4512000" />
+      <workItem from="1524395868449" duration="3221000" />
+      <workItem from="1524679839686" duration="1607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75159000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23199023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30569947" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10/pdo/sqlite_insert.php" />
+    <entry file="file://$PROJECT_DIR$/10/pdo/sqlite.php" />
+    <entry file="file://$PROJECT_DIR$/10/pdo/pdo_insert.php" />
+    <entry file="file://$PROJECT_DIR$/10/doctrine/src/AppBundle/Entity/Test.php" />
+    <entry file="file://$PROJECT_DIR$/10/doctrine/src/AppBundle/Controller/DefaultController.php" />
+    <entry file="file://$PROJECT_DIR$/10/doctrine/src/AppBundle/Entity/Product.php" />
+    <entry file="file://$PROJECT_DIR$/10/pdo/mysql_insert.php" />
+    <entry file="file://$PROJECT_DIR$/11/validation.php" />
+    <entry file="file://$PROJECT_DIR$/11/symfony_validator/input.php" />
+    <entry file="file://$PROJECT_DIR$/11/input.php" />
+    <entry file="file://$PROJECT_DIR$/11/input.html" />
+    <entry file="file://$PROJECT_DIR$/11/csrf/main.php" />
+    <entry file="file://$PROJECT_DIR$/11/upload_files/new-php-logo.png" />
+    <entry file="file://$PROJECT_DIR$/11/upload_files/main.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="825" column="9" lean-forward="false" selection-start-line="825" selection-start-column="9" selection-end-line="825" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/swiftmailer/main.php" />
+    <entry file="file://$PROJECT_DIR$/12/contacts_form/send.php" />
+    <entry file="file://$PROJECT_DIR$/12/contacts_form/contact.html" />
+    <entry file="file://$PROJECT_DIR$/13/cookie.php" />
+    <entry file="file://$PROJECT_DIR$/13/session.php" />
+    <entry file="file://$PROJECT_DIR$/13/login.php" />
+    <entry file="file://$PROJECT_DIR$/13/logout.php" />
+    <entry file="file://$PROJECT_DIR$/13/flash_message/main.php" />
+    <entry file="file://$PROJECT_DIR$/14/password.php" />
+    <entry file="file://$PROJECT_DIR$/14/user_color.php" />
+    <entry file="file://$PROJECT_DIR$/15/no_errors.php" />
+    <entry file="file://$PROJECT_DIR$/15/all_errors.php" />
+    <entry file="file://$PROJECT_DIR$/10/doctrine/vendor/symfony/polyfill-php70/Resources/stubs/DivisionByZeroError.php" />
+    <entry file="file://$PROJECT_DIR$/15/errors/MyException.php" />
+    <entry file="file://$PROJECT_DIR$/15/errors/main.php" />
+    <entry file="file://$PROJECT_DIR$/15/fatal.php" />
+    <entry file="file://$PROJECT_DIR$/2/helloworld.php" />
+    <entry file="file://$PROJECT_DIR$/PHP/10/doctrine/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/math_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/array_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/string_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/file_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/advanced_array_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/object_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/3/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/4/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/4/interfaces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/7/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/8/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/8/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/8/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/8/autoload/autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/8/autoload/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/9/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/9/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/10/sqlite/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523713001486" expanded="true" signature="100:149" ph="insert into products... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

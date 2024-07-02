@@ -1,0 +1,13 @@
+{
+    "name": "krzysztofjonczyk/contacts_form",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "symfony/validator": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Jonczyk",
+            "email": "krzysztof.jonczyk@gmail.com"
+        }
+    ]
+}

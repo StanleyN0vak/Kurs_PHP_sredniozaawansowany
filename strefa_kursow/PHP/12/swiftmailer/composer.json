@@ -1,0 +1,12 @@
+{
+    "name": "krzysztofjonczyk/swiftmailer",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Jonczyk",
+            "email": "krzysztof.jonczyk@gmail.com"
+        }
+    ]
+}

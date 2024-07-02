@@ -1,0 +1,12 @@
+{
+    "name": "krzysztofjonczyk/upload_files",
+    "require": {
+        "symfony/http-foundation": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Jonczyk",
+            "email": "krzysztof.jonczyk@gmail.com"
+        }
+    ]
+}
