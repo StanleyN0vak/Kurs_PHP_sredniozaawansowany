@@ -1,0 +1,17 @@
+{
+    "name": "mateusz/symfony_validator",
+    "require": {
+        "symfony/validator": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateusz\\SymfonyValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanleyN0vak",
+            "email": "darkmarek2@gmail.com"
+        }
+    ]
+}

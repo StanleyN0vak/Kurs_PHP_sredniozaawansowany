@@ -1,0 +1,17 @@
+{
+    "name": "mateusz/csrf",
+    "require": {
+        "symfony/security-csrf": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateusz\\Csrf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanleyN0vak",
+            "email": "darkmarek2@gmail.com"
+        }
+    ]
+}

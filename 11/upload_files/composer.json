@@ -1,0 +1,17 @@
+{
+    "name": "mateusz/upload_files",
+    "require": {
+        "symfony/http-foundation": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateusz\\UploadFiles\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanleyN0vak",
+            "email": "darkmarek2@gmail.com"
+        }
+    ]
+}

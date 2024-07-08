@@ -1,0 +1,17 @@
+{
+    "name": "mateusz/flash_message",
+    "require": {
+        "symfony/http-foundation": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateusz\\FlashMessage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanleyN0vak",
+            "email": "darkmarek2@gmail.com"
+        }
+    ]
+}

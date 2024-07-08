@@ -1,0 +1,17 @@
+{
+    "name": "mateusz/swiftmailer",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mateusz\\Swiftmailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanleyN0vak",
+            "email": "darkmarek2@gmail.com"
+        }
+    ]
+}
